@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1397384576 source:d:\ВСЁ\Учебное\ВМК-208\С\задания\gram2-1.1\main.cpp
+	<iostream>
+	<cctype>
+	<cstdio>
+
